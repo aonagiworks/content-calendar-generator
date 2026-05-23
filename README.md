@@ -14,6 +14,10 @@ Generator ide konten sederhana untuk UMKM, content creator, dan bisnis kecil.
 - Coffee Shop
 - Skincare
 - Fashion
+- Makanan Rumahan
+- Jasa Desain
+- Bengkel
+- Toko Aksesoris
 
 ## Cara Install
 ```bash
